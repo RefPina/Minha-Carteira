@@ -9,10 +9,10 @@ Com validação de formato de email
 
 <h1>DashBoard</h1>
 
-Cards com total de entradas, saídas e saldo.
-PieChart com relações de entradas e saídas.
-Histórico de saldo anual.
-BarChart tratados separadamente de entradas e saídas.
+Cards com total de entradas, saídas e saldo.<br>
+PieChart com relações de entradas e saídas.<br>
+Histórico de saldo anual.<br>
+BarChart tratados separadamente de entradas e saídas.<br>
 
 <h1>Entradas</h1>
 
